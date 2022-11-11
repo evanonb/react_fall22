@@ -1,4 +1,3 @@
-// create a functional component with hooks repl
 import React, { useState } from 'react';
 
 function MainBody(props) {
